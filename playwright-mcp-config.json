@@ -6,7 +6,7 @@
     },
     "contextOptions": {
       "recordVideo": {
-        "dir": "./videos",
+        "dir": "/Users/leoneng/Library/Mobile Documents/com~apple~CloudDocs/TAC/tac-7/trees/1036a348/videos",
         "size": {
           "width": 1920,
           "height": 1080
